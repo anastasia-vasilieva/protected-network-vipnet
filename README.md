@@ -1,51 +1,60 @@
 # 🔐 Protected Network Infrastructure with ViPNet
 
-## Educational Project
+## Учебный проект
 
-Project completed within the framework of the specialty **10.02.05 "Information Security of Automated Systems"**.
+Проект выполнен в рамках обучения по специальности  
+**10.02.05 «Обеспечение информационной безопасности автоматизированных систем»**.
 
-## Description
+## Описание проекта
 
-The project demonstrates the design and configuration of a protected enterprise network using ViPNet technologies.
+Выполнено проектирование и настройка защищённой сетевой инфраструктуры предприятия с использованием средств защиты информации ViPNet.
 
-The goal of the project was to create a secure communication environment between network nodes with authentication, encryption and controlled access.
+Цель проекта — создание защищённого взаимодействия между узлами сети с использованием криптографической защиты, управления ключевой информацией и контроля доступа.
 
-## Technologies and Tools
+В рамках проекта была смоделирована корпоративная сеть с главным офисом и филиалом, между которыми организовано защищённое соединение.
+
+## Используемые технологии и средства
 
 - ViPNet Coordinator
 - ViPNet Client
-- ЦУС (Center for Network Management)
-- УКЦ (Certification Authority)
+- ЦУС (Центр управления сетью)
+- УКЦ (Удостоверяющий и ключевой центр)
 - VirtualBox
-- Windows operating systems
-- TCP/IP networking
+- Windows
+- TCP/IP
+- VPN-технологии
 
-## Implemented Tasks
+## Выполненные задачи
 
-- Deployment of virtual machines for network components and users;
-- Configuration of protected network topology;
-- Creation and management of network nodes in ЦУС;
-- Generation and distribution of cryptographic keys through УКЦ;
-- Configuration of secure communication channels;
-- Verification of connectivity between protected nodes;
-- Testing of message exchange within the protected network.
+- Развёртывание виртуальных машин для компонентов защищённой сети;
+- Настройка сетевого взаимодействия между узлами;
+- Создание структуры защищённой сети в ЦУС;
+- Настройка координаторов и клиентов;
+- Управление пользователями и сетевыми объектами;
+- Выпуск и установка ключевой информации через УКЦ;
+- Настройка защищённых каналов связи;
+- Проверка взаимодействия между узлами сети;
+- Тестирование передачи сообщений внутри защищённой инфраструктуры.
 
-## Security Mechanisms
+## Используемые механизмы защиты
 
-The project uses:
+В проекте применялись:
 
-- Cryptographic key management;
-- Certificate-based authentication;
-- Encrypted communication channels;
-- Integrity and access control mechanisms.
+- Криптографическая защита передаваемых данных;
+- Аутентификация пользователей и узлов сети;
+- Управление ключевой информацией;
+- Защищённые каналы передачи данных;
+- Контроль доступа к сетевым ресурсам.
 
-## Skills Demonstrated
+## Полученные навыки
 
-- Network administration;
-- Information security tools configuration;
-- Virtual machine management;
-- Understanding of VPN and cryptographic protection principles.
+- Настройка средств защиты информации;
+- Работа с защищёнными сетями;
+- Администрирование виртуальной инфраструктуры;
+- Работа с VPN-технологиями;
+- Настройка сетевого взаимодействия TCP/IP;
+- Понимание принципов криптографической защиты информации.
 
-## Author
+## Автор
 
 Anastasia Vasilieva
